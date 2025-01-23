@@ -41,6 +41,7 @@ function App() {
 
 	return (
 		<>
+		<div>dsaf</div>
 			<div className={styles.body}>
 				<div className={styles.main}>
 					<input className={styles.displayer} value={currentValue} type="text" /> {/* Upewnij się, że typ jest tekstowy */}
