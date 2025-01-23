@@ -1,0 +1,21 @@
+.body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.displayer{
+   
+    margin: 10px;
+}
+.main{
+    background-color: aquamarine;
+    height: 400px;
+    width: 200px;
+}
+
+.button{
+    margin: 1px;
+    background-color: bisque;
+    padding: 5px 10px;
+}
